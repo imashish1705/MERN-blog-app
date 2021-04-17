@@ -1,0 +1,21 @@
+
+.Blog {
+
+    width: 50vw;
+    box-shadow: 0px 1px 3px gray;
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 20px auto;
+    background-color: #feffde;
+  }
+  
+  .Blog img {
+    width: 99%;
+  }
+  .Heading {
+     text-align: center;
+     color: white;
+  }
+  .main{
+    background-color: #194350;
+  }
